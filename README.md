@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **amaanshaikh786420@gmail.com**
 
+- Here is my Resume **https://amaanrs.github.io/Resume_Host/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amaan-shaikh-924180264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amaan-shaikh-924180264/" height="30" width="40" /></a>
