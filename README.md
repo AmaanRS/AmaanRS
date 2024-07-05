@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmaanRS/](https://github.com/AmaanRS/)
 
-- 💬 I have worked with following technologies **Nodejs,Reactjs,Expressjs**
+- 💬 I have worked with following technologies **Nodejs,Reactjs,Expressjs,Redis,Kafka,TypeScript,Jest**
 
 - 📫 How to reach me **amaanshaikh786420@gmail.com**
 
