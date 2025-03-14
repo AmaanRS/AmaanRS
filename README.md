@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanrs&label=Profile%20views&color=0e75b6&style=flat" alt="amaanrs" /> </p>
 
-- 🔭 I’m currently working on [Web Chat Application](https://github.com/AmaanRS/Web_Chat_Application)
-
 - 🌱 I’m currently learning **TypeScript**
 
-- 🔭 I’m currently working on **Campus Connect**
+- 🔭 I’m currently working on [Campus Connect](https://github.com/AmaanRS/Web_Chat_Application)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmaanRS/](https://github.com/AmaanRS/)
 
